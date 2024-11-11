@@ -1,0 +1,15 @@
+{
+  "header": {
+    "title": "Book Catalog",
+    "adminPanel": "Admin Panel"
+  },
+  "user": {
+    "rentBook": "Rent Book",
+    "viewCatalog": "View Catalog"
+  },
+  "admin": {
+    "createBook": "Create Book",
+    "editBook": "Edit Book",
+    "deleteBook": "Delete Book"
+  }
+}
